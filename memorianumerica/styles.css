@@ -1,0 +1,30 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+#game-container {
+    margin-top: 50px;
+}
+
+#number-display {
+    font-size: 24px;
+    margin-bottom: 20px;
+    height:40px;
+    width:auto;
+}
+
+#user-input {
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+#start-btn {
+    padding: 10px 20px;
+    font-size: 16px;
+}
+
+#check-btn{
+    padding: 10px 20px;
+    font-size: 16px;
+}
